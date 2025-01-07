@@ -1,0 +1,450 @@
+{
+  "GlobalConfiguration": {
+    //url of the gateway
+    "BaseUrl": "https://localhost:7000"
+  },
+  "Routes": [
+    //Product Service lh:7001
+    //Products
+    {
+      //gateway endpoint
+      "UpstreamPathTemplate": "/gateway/products",
+      //method
+      "UpstreamHttpMethod": [ "Get" ],
+      //endpoint of the service
+      "DownstreamPathTemplate": "/api/Product/products",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          //url of the service
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "Key": "allProducts",
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/product/{productId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Product/product/{productId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/product/{productId}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/Product/product/{productId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/product/{productId}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Product/product/{productId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/product",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Product/product",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+
+    //Category
+    {
+      "UpstreamPathTemplate": "/gateway/categories",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Category/categories",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/category/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Category/category/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/category",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Category/category",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/category/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Category/category/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/category/{id}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/Category/category/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+
+    //Currency
+    {
+      "UpstreamPathTemplate": "/gateway/currencies",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Currency/currencies",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/currency/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Currency/currency/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ]
+    },
+
+    //User Service lh:7002
+    //User
+    {
+      "UpstreamPathTemplate": "/gateway/users",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/User/users",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/user/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/User/user/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/user",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/User/user",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/user",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/User/user",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/user/{id}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/User/user/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/user/{email}/{password}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/User/user/{email}/{password}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+    //Permission
+    {
+      "UpstreamPathTemplate": "/gateway/permissions",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Permission",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/permission/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Permission/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ]
+    },
+
+
+    //Warehouse Service lh:7003
+    //Warehouse
+    {
+      "UpstreamPathTemplate": "/gateway/warehouses",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Worehouse",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "Key": "allwarehouses",
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/worehouse/product/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/product/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/worehouse/{id}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Worehouse/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/worehouse/search",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Worehouse/search",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/warehouse",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Worehouse",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/warehouse/{warehouseId}/{productQuantity}",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/Worehouse/{warehouseId}/{productQuantity}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/warehouse/{warehouseId}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Worehouse/{warehouseId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/warehouse/product/{warehouseId}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Worehouse/product/{warehouseId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/warehouse/order",
+      "UpstreamHttpMethod": [ "Put" ],
+      "DownstreamPathTemplate": "/api/Worehouse/order",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ]
+    },
+    //Basket Service lh:7004
+    {
+      "UpstreamPathTemplate": "/gateway/basket/user/{userId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Basket/{userId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7004
+        }
+      ],
+      "Key": "userBasket"
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/basket",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Basket",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7004
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/basket/user/{userId}",
+      "UpstreamHttpMethod": [ "Delete" ],
+      "DownstreamPathTemplate": "/api/Basket/{userId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7004
+        }
+      ]
+    }
+  ],
+  "Aggregates": [
+    {
+      "UpstreamPathTemplate": "/gateway/aggregate/products/warehouses",
+      "UpstreamHttpMethod": [ "Get" ],
+      "RouteKeys": [ "allProducts", "allwarehouses" ],
+      "Aggregator": "ProductsWarehousesAggregator",
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/aggregate/products-basket/user/{userId}",
+      "UpstreamHttpMethod": [ "Get" ],
+      "RouteKeys": [ "allProducts", "userBasket" ],
+      "Aggregator": "ProductBasketAggregator"
+    }
+  ]
+}

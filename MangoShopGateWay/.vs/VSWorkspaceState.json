@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MangoShopGateWay",
+    "\\MangoShopGateWay\\ModelDto",
+    "\\MangoShopGateWay\\ModelDto\\AggregationModel",
+    "\\MangoShopGateWay\\ModelDto\\Basket",
+    "\\MangoShopGateWay\\ModelDto\\Product"
+  ],
+  "SelectedNode": "\\MangoShopGateWay.sln",
+  "PreviewInSolutionExplorer": false
+}

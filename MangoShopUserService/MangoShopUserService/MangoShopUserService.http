@@ -1,0 +1,6 @@
+@MangoShopUserService_HostAddress = http://localhost:5128
+
+GET {{MangoShopUserService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

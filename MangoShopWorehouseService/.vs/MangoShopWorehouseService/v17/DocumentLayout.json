@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\model\\worehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\model\\worehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\controllers\\worehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\controllers\\worehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\service\\worehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\service\\worehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\repository\\worehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\repository\\worehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\interface\\serviceinterfaces\\iworehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\interface\\serviceinterfaces\\iworehouseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\interface\\repositoryinterfaces\\iworehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\interface\\repositoryinterfaces\\iworehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopworehouseservice\\mangoshopworehouseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17A3BF5D-FA54-489D-AA8E-96F9AED87955}|MangoShopWorehouseService\\MangoShopWorehouseService.csproj|solutionrelative:mangoshopworehouseservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Repository\\WorehouseRepository.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Repository\\WorehouseRepository.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Repository\\WorehouseRepository.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Repository\\WorehouseRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:55:31.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Service\\WorehouseService.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Service\\WorehouseService.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Service\\WorehouseService.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Service\\WorehouseService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:54:41.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorehouseService.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Interface\\ServiceInterfaces\\IWorehouseService.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Interface\\ServiceInterfaces\\IWorehouseService.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Interface\\ServiceInterfaces\\IWorehouseService.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Interface\\ServiceInterfaces\\IWorehouseService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:11:48.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IWorehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Interface\\RepositoryInterfaces\\IWorehouseRepository.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Interface\\RepositoryInterfaces\\IWorehouseRepository.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Interface\\RepositoryInterfaces\\IWorehouseRepository.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Interface\\RepositoryInterfaces\\IWorehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:09:25.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Controllers\\WorehouseController.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Controllers\\WorehouseController.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Controllers\\WorehouseController.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Controllers\\WorehouseController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:48:49.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\appsettings.json",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\appsettings.json",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\appsettings.json",
+              "RelativeToolTip": "MangoShopWorehouseService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:32:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\AppDbContext.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:30:15.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Program.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Program.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Program.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:29:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worehouse.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Model\\Worehouse.cs",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Model\\Worehouse.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Model\\Worehouse.cs",
+              "RelativeToolTip": "MangoShopWorehouseService\\Model\\Worehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:13:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MangoShopWorehouseService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopWorehouseService\\MangoShopWorehouseService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MangoShopWorehouseService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:11:15.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\dal.mangoshopproductservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|solutionrelative:dal.mangoshopproductservice\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\modeldto\\apiresponse\\productapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\modeldto\\apiresponse\\productapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\modeldto\\apiresponse\\categoryapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\modeldto\\apiresponse\\categoryapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\modeldto\\apiresponse\\currencyapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\modeldto\\apiresponse\\currencyapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\modeldto\\apirequest\\productapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\modeldto\\apirequest\\productapirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D34CD2-B5DD-4E90-BEDE-C955B0A7BD79}|BLL.MangoShopProductService\\BLL.MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\bll.mangoshopproductservice\\blmodel\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D34CD2-B5DD-4E90-BEDE-C955B0A7BD79}|BLL.MangoShopProductService\\BLL.MangoShopProductService.csproj|solutionrelative:bll.mangoshopproductservice\\blmodel\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\dal.mangoshopproductservice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|solutionrelative:dal.mangoshopproductservice\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\mangoshopproductservice\\modeldto\\apirequest\\currencyvalueapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6919FEA5-8CFE-4251-8931-04AD3A8B6E45}|MangoShopProductService\\MangoShopProductService.csproj|solutionrelative:mangoshopproductservice\\modeldto\\apirequest\\currencyvalueapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|c:\\users\\misha\\documents\\folders\\mangoshop\\mangoshopproductservice\\dal.mangoshopproductservice\\migrations\\20241210182151_fixproduct model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE2F9A0-F51D-4846-8A18-935818BDF740}|DAL.MangoShopProductService\\DAL.MangoShopProductService.csproj|solutionrelative:dal.mangoshopproductservice\\migrations\\20241210182151_fixproduct model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurrencyApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\CurrencyApiResponse.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\ModelDto\\ApiResponse\\CurrencyApiResponse.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\CurrencyApiResponse.cs",
+              "RelativeToolTip": "MangoShopProductService\\ModelDto\\ApiResponse\\CurrencyApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:54:48.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\CategoryApiResponse.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\ModelDto\\ApiResponse\\CategoryApiResponse.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\CategoryApiResponse.cs",
+              "RelativeToolTip": "MangoShopProductService\\ModelDto\\ApiResponse\\CategoryApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:54:32.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL.MangoShopProductService\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\AppDbContext.cs",
+              "RelativeToolTip": "DAL.MangoShopProductService\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:34:09.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Program.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\Program.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Program.cs",
+              "RelativeToolTip": "MangoShopProductService\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAawDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:28:49.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\appsettings.json",
+              "RelativeDocumentMoniker": "MangoShopProductService\\appsettings.json",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\appsettings.json",
+              "RelativeToolTip": "MangoShopProductService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T18:27:24.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\ProductApiResponse.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\ModelDto\\ApiResponse\\ProductApiResponse.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiResponse\\ProductApiResponse.cs",
+              "RelativeToolTip": "MangoShopProductService\\ModelDto\\ApiResponse\\ProductApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:22:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiRequest\\ProductApiRequest.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\ModelDto\\ApiRequest\\ProductApiRequest.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiRequest\\ProductApiRequest.cs",
+              "RelativeToolTip": "MangoShopProductService\\ModelDto\\ApiRequest\\ProductApiRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:22:49.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductBl.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\BLL.MangoShopProductService\\BlModel\\ProductBl.cs",
+              "RelativeDocumentMoniker": "BLL.MangoShopProductService\\BlModel\\ProductBl.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\BLL.MangoShopProductService\\BlModel\\ProductBl.cs",
+              "RelativeToolTip": "BLL.MangoShopProductService\\BlModel\\ProductBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:22:19.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241210182151_fixProduct model.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\Migrations\\20241210182151_fixProduct model.cs",
+              "RelativeDocumentMoniker": "DAL.MangoShopProductService\\Migrations\\20241210182151_fixProduct model.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\Migrations\\20241210182151_fixProduct model.cs",
+              "RelativeToolTip": "DAL.MangoShopProductService\\Migrations\\20241210182151_fixProduct model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:21:51.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "DAL.MangoShopProductService\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\DAL.MangoShopProductService\\Model\\Product.cs",
+              "RelativeToolTip": "DAL.MangoShopProductService\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T18:19:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrencyValueApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiRequest\\CurrencyValueApiResponse.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\ModelDto\\ApiRequest\\CurrencyValueApiResponse.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\ModelDto\\ApiRequest\\CurrencyValueApiResponse.cs",
+              "RelativeToolTip": "MangoShopProductService\\ModelDto\\ApiRequest\\CurrencyValueApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T14:44:41.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\Controllers\\CurrencyController.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "MangoShopProductService\\Controllers\\CurrencyController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:53:28.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MangoShopProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\misha\\Documents\\Folders\\MangoShop\\MangoShopProductService\\MangoShopProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MangoShopProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:53:27.363Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
