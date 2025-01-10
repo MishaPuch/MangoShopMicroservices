@@ -32,3 +32,4 @@ C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\BLL.MangoShop
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\BLL.MangoShopProductService\obj\Debug\net8.0\BLL.MangoShopProductService.pdb
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\BLL.MangoShopProductService\obj\Debug\net8.0\BLL.MangoShopProductService.genruntimeconfig.cache
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\BLL.MangoShopProductService\obj\Debug\net8.0\ref\BLL.MangoShopProductService.dll
+C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\BLL.MangoShopProductService\obj\Debug\net8.0\BLL.MangoShopProductService.sourcelink.json

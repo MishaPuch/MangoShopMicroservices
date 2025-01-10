@@ -22,3 +22,4 @@ C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\DAL.MangoShop
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\DAL.MangoShopProductService\obj\Debug\net8.0\refint\DAL.MangoShopProductService.dll
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\DAL.MangoShopProductService\obj\Debug\net8.0\DAL.MangoShopProductService.pdb
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\DAL.MangoShopProductService\obj\Debug\net8.0\ref\DAL.MangoShopProductService.dll
+C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\DAL.MangoShopProductService\obj\Debug\net8.0\DAL.MangoShopProductService.sourcelink.json

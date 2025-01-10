@@ -120,3 +120,4 @@ C:\Users\misha\Documents\Folders\MangoShop\MangoShopGateWay\MangoShopGateWay\obj
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopGateWay\MangoShopGateWay\obj\Debug\net8.0\MangoShopGateWay.pdb
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopGateWay\MangoShopGateWay\obj\Debug\net8.0\MangoShopGateWay.genruntimeconfig.cache
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopGateWay\MangoShopGateWay\obj\Debug\net8.0\ref\MangoShopGateWay.dll
+C:\Users\misha\Documents\Folders\MangoShop\MangoShopGateWay\MangoShopGateWay\obj\Debug\net8.0\MangoShopGateWay.sourcelink.json

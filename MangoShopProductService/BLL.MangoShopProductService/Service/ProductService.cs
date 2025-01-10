@@ -36,6 +36,7 @@ namespace BLL.MangoShopProductService.Service
         {
             var product = _mapper.Map<Product>(productBl);
             await _productRepository.AddProductAsync(product);
+            productBl.Id = product.Id;
         }
 
         public async Task UpdateProductAsync(ProductBl productBl)

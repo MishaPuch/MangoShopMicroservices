@@ -568,3 +568,4 @@ C:\Users\misha\Documents\Folders\MangoShop\MangoShopWorehouseService\MangoShopWo
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopWorehouseService\MangoShopWorehouseService\obj\Debug\net8.0\MangoShopWorehouseService.pdb
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopWorehouseService\MangoShopWorehouseService\obj\Debug\net8.0\MangoShopWorehouseService.genruntimeconfig.cache
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopWorehouseService\MangoShopWorehouseService\obj\Debug\net8.0\ref\MangoShopWorehouseService.dll
+C:\Users\misha\Documents\Folders\MangoShop\MangoShopWorehouseService\MangoShopWorehouseService\obj\Debug\net8.0\MangoShopWorehouseService.sourcelink.json

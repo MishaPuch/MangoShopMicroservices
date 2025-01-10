@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MangoShopOrderServcie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d66ed712f4fc828416b805089a13f62ccb13a22a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MangoShopOrderServcie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MangoShopOrderServcie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

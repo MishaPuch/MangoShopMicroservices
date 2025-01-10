@@ -87,7 +87,10 @@
           "Host": "localhost",
           "Port": 7001
         }
-      ]
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/category/{id}",
@@ -149,7 +152,10 @@
           "Host": "localhost",
           "Port": 7001
         }
-      ]
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/currency/{id}",
@@ -176,7 +182,10 @@
           "Host": "localhost",
           "Port": 7002
         }
-      ]
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/user/{id}",
@@ -249,7 +258,10 @@
           "Host": "localhost",
           "Port": 7002
         }
-      ]
+      ],
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/permission/{id}",
@@ -278,7 +290,10 @@
           "Port": 7003
         }
       ],
-      "Key": "allwarehouses"
+      "Key": "allwarehouses",
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/worehouse/product/{id}",
@@ -420,7 +435,10 @@
       "UpstreamPathTemplate": "/gateway/aggregate/products/warehouses",
       "UpstreamHttpMethod": [ "Get" ],
       "RouteKeys": [ "allProducts", "allwarehouses" ],
-      "Aggregator": "ProductsWarehousesAggregator"
+      "Aggregator": "ProductsWarehousesAggregator",
+      "CacheOptions": {
+        "EnableContentHashing": true
+      }
     },
     {
       "UpstreamPathTemplate": "/gateway/aggregate/products-basket/user/{userId}",

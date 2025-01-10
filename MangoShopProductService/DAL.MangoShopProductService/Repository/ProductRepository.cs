@@ -31,7 +31,7 @@ namespace DAL.MangoShopProductService.Repository
         public async Task AddProductAsync(Product product)
         {
             await _context.Products.AddAsync(product);
-            await _context.SaveChangesAsync();
+            var savedProduct = await _context.SaveChangesAsync();
         }
 
         public async Task UpdateProductAsync(Product product)

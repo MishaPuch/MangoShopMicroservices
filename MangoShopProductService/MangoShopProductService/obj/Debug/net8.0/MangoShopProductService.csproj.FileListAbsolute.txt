@@ -345,3 +345,4 @@ C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\MangoShopProd
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\MangoShopProductService\obj\Debug\net8.0\MangoShopProductService.genruntimeconfig.cache
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\MangoShopProductService\obj\Debug\net8.0\ref\MangoShopProductService.dll
 C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\MangoShopProductService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\misha\Documents\Folders\MangoShop\MangoShopProductService\MangoShopProductService\obj\Debug\net8.0\MangoShopProductService.sourcelink.json

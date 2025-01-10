@@ -3,7 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MangoShopUserService", "MangoShopUserService\MangoShopUserService.csproj", "{4FE35A5A-09DE-405F-A580-8006FE27DCE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopUserService", "MangoShopUserService\MangoShopUserService.csproj", "{4FE35A5A-09DE-405F-A580-8006FE27DCE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopBasketService", "..\MangoShopBasketService\MangoShopBasketService\MangoShopBasketService.csproj", "{2BBF8CB4-A3FF-4DD6-ADC6-E05BAD3C7BE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopGateWay", "..\MangoShopGateWay\MangoShopGateWay\MangoShopGateWay.csproj", "{D8710292-1880-4C71-9143-81691F5E86B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopOrderServcie", "..\MangoShopOrderServcie\MangoShopOrderServcie\MangoShopOrderServcie.csproj", "{98A81B93-AC07-4600-B789-57A1003231A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopProductService", "..\MangoShopProductService\MangoShopProductService\MangoShopProductService.csproj", "{3C956BD9-BE7F-478C-A485-8A9C1E32D39C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL.MangoShopProductService", "..\MangoShopProductService\DAL.MangoShopProductService\DAL.MangoShopProductService.csproj", "{3A00D383-EEFF-43DC-A179-1BBF1DD045ED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MangoShopWorehouseService", "..\MangoShopWorehouseService\MangoShopWorehouseService\MangoShopWorehouseService.csproj", "{6C9E1B5A-C793-4C21-B432-9A6E00B601E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL.MangoShopProductService", "..\MangoShopProductService\BLL.MangoShopProductService\BLL.MangoShopProductService.csproj", "{C4F59460-2392-45CE-AE1B-700D7BD5F076}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductService", "ProductService", "{E16D7022-9EA0-4A01-9B68-39B352A27961}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +31,41 @@ Global
 		{4FE35A5A-09DE-405F-A580-8006FE27DCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE35A5A-09DE-405F-A580-8006FE27DCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE35A5A-09DE-405F-A580-8006FE27DCE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BBF8CB4-A3FF-4DD6-ADC6-E05BAD3C7BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBF8CB4-A3FF-4DD6-ADC6-E05BAD3C7BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBF8CB4-A3FF-4DD6-ADC6-E05BAD3C7BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBF8CB4-A3FF-4DD6-ADC6-E05BAD3C7BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8710292-1880-4C71-9143-81691F5E86B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8710292-1880-4C71-9143-81691F5E86B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8710292-1880-4C71-9143-81691F5E86B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8710292-1880-4C71-9143-81691F5E86B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A81B93-AC07-4600-B789-57A1003231A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A81B93-AC07-4600-B789-57A1003231A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A81B93-AC07-4600-B789-57A1003231A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A81B93-AC07-4600-B789-57A1003231A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C956BD9-BE7F-478C-A485-8A9C1E32D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C956BD9-BE7F-478C-A485-8A9C1E32D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C956BD9-BE7F-478C-A485-8A9C1E32D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C956BD9-BE7F-478C-A485-8A9C1E32D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A00D383-EEFF-43DC-A179-1BBF1DD045ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A00D383-EEFF-43DC-A179-1BBF1DD045ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A00D383-EEFF-43DC-A179-1BBF1DD045ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A00D383-EEFF-43DC-A179-1BBF1DD045ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9E1B5A-C793-4C21-B432-9A6E00B601E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9E1B5A-C793-4C21-B432-9A6E00B601E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9E1B5A-C793-4C21-B432-9A6E00B601E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9E1B5A-C793-4C21-B432-9A6E00B601E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F59460-2392-45CE-AE1B-700D7BD5F076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F59460-2392-45CE-AE1B-700D7BD5F076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F59460-2392-45CE-AE1B-700D7BD5F076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F59460-2392-45CE-AE1B-700D7BD5F076}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3A00D383-EEFF-43DC-A179-1BBF1DD045ED} = {E16D7022-9EA0-4A01-9B68-39B352A27961}
+		{C4F59460-2392-45CE-AE1B-700D7BD5F076} = {E16D7022-9EA0-4A01-9B68-39B352A27961}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3D61E174-F465-4E6A-B90C-799C158DEF19}

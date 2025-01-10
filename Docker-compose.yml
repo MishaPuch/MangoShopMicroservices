@@ -1,0 +1,135 @@
+version: '3.8'
+
+services:
+  warehouse:
+    image: mango_shop_worehouse:latest
+    depends_on:
+      - warehouse_db
+    environment:
+      - SQLSERVER_HOST=warehouse_db
+      - SQLSERVER_PORT=1433
+      - SQLSERVER_USER=sa
+      - SQLSERVER_PASSWORD=YourStrongPassword123
+      - SQLSERVER_DATABASE=WorehouseServiceDataBase
+    ports:
+      - "7003:80"
+
+  warehouse_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123
+    volumes:
+      - warehouse-db-data:/var/opt/mssql
+    ports:
+      - "1434:1433"
+
+  user:
+    image: mango_shop_user:latest
+    depends_on:
+      - user_db
+    environment:
+      - SQLSERVER_HOST=user_db
+      - SQLSERVER_PORT=1433
+      - SQLSERVER_USER=sa
+      - SQLSERVER_PASSWORD=YourStrongPassword123
+      - SQLSERVER_DATABASE=UserServiceDataBase
+    ports:
+      - "7002:80"
+
+  user_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123
+    volumes:
+      - user-db-data:/var/opt/mssql
+    ports:
+      - "1435:1433"
+
+  product:
+    image: mango_shop_product:latest
+    depends_on:
+      - product_db
+    environment:
+      - SQLSERVER_HOST=product_db
+      - SQLSERVER_PORT=1433
+      - SQLSERVER_USER=sa
+      - SQLSERVER_PASSWORD=YourStrongPassword123
+      - SQLSERVER_DATABASE=ProductServiceDataBase
+    ports:
+      - "7001:80"
+
+  product_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123
+    volumes:
+      - product-db-data:/var/opt/mssql
+    ports:
+      - "1436:1433"
+
+  order:
+    image: mango_shop_order:latest
+    depends_on:
+      - order_db
+    environment:
+      - SQLSERVER_HOST=order_db
+      - SQLSERVER_PORT=1433
+      - SQLSERVER_USER=sa
+      - SQLSERVER_PASSWORD=YourStrongPassword123
+      - SQLSERVER_DATABASE=OrderServiceDataBase
+    ports:
+      - "7005:80"
+
+  order_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123
+    volumes:
+      - order-db-data:/var/opt/mssql
+    ports:
+      - "1437:1433"
+
+  basket:
+    image: mango_shop_basket:latest
+    depends_on:
+      - basket_db
+    environment:
+      - SQLSERVER_HOST=basket_db
+      - SQLSERVER_PORT=1433
+      - SQLSERVER_USER=sa
+      - SQLSERVER_PASSWORD=YourStrongPassword123
+      - SQLSERVER_DATABASE=BasketServiceDataBase
+    ports:
+      - "7004:80"
+
+  basket_db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=YourStrongPassword123
+    volumes:
+      - basket-db-data:/var/opt/mssql
+    ports:
+      - "1438:1433"
+
+  gateway:
+    image: mango_shop_gate_way:latest
+    depends_on:
+      - warehouse
+      - user
+      - product
+      - order
+      - basket
+    ports:
+      - "7000:80"
+
+volumes:
+  warehouse-db-data:
+  user-db-data:
+  product-db-data:
+  order-db-data:
+  basket-db-data:
